@@ -1,8 +1,8 @@
 # Introduction
-This is the repository where Team Chillax will be designing it's current open source game project, An as yet unnamed 3D internet multi-player action game. We are using this repository to lay out design specifications for this project, which will be used to guide development efforts and provide a clear vision for what we want to accomplish. These plans are a work in progress and updates may occur as designs are created and refined.
+This is the repository where Team Chillax will be designing its current open-source game project, an as of yet unnamed 3D internet multi-player action game. We are using this repository to lay out design specifications for this project, which will be used to guide development efforts and provide a clear vision for what we want to accomplish. These plans are a work in progress and updates may occur as designs are created and refined.
 
 ## History
-We are a group of developers, players, and server owners from the open source game [BZFlag](http://bzflag.org). Sadly that project has run it's course and it's time to make something newer and better. Our goal is to create a new game that echoes the fun elements of the game, but meets the expectations of modern users and brings a fresh take to open source gaming.
+We are a group of developers, players, and server owners from the open-source game [BZFlag](http://bzflag.org). Sadly that project has run its course and it is time to make something newer and better. Our goal is to create a new game that echoes the fun elements of the game, but meets the expectations of modern users and brings a fresh take to open-source gaming.
 
 # Sections
 
