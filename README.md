@@ -4,6 +4,9 @@ This is the repository where Team Chillax will be designing its current open-sou
 ## History
 We are a group of developers, players, and server owners from the open-source game [BZFlag](http://bzflag.org). Sadly that project has run its course and it is time to make something newer and better. Our goal is to create a new game that echoes the fun elements of the game, but meets the expectations of modern users and brings a fresh take to open-source gaming.
 
+## Guidelines
+The [design guidelines](design_guidelines.md) document covers a basic overview of the design process. all potential designers and developers should read it to underdstand our overall development goals.
+
 # Sections
 
 The following is a list of design documents for the project. Some of these pages may not have content yet, but the links will begin working as content is created for them.
