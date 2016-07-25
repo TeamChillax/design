@@ -1,8 +1,8 @@
 # Introduction
-This is the repository where Team Chillax will be designing it's current open source game proejct, An as yet unnamed 3D internet multi-player action game. We are using this repository to lay out design specifications for this project, which will be used to guide development efforts and provide a clear vision for what we want to accomplish. These plans are a work in progress and updates may occur as designs are created and refined.
+This is the repository where Team Chillax will be designing it's current open source game project, An as yet unnamed 3D internet multi-player action game. We are using this repository to lay out design specifications for this project, which will be used to guide development efforts and provide a clear vision for what we want to accomplish. These plans are a work in progress and updates may occur as designs are created and refined.
 
 ## History
-We are a group of developers, players, and server owners from the open source game [BZFlag](http://bzflag.org). Sadly that proejct has run it's course and it's time to make something newer and better. Our goal is to create a new game that echos the fun elements of the gmae, but meets the expectations of modern users and brings a fresh take to open source gaming.
+We are a group of developers, players, and server owners from the open source game [BZFlag](http://bzflag.org). Sadly that project has run it's course and it's time to make something newer and better. Our goal is to create a new game that echoes the fun elements of the game, but meets the expectations of modern users and brings a fresh take to open source gaming.
 
 # Sections
 
@@ -11,23 +11,23 @@ The following is a list of design documents for the project. Some of these pages
 - [Licenses and Development Guidelines](licenses_and_development_guidelines.md)
 - [Target Platforms](target_platforms.md)
 - [Gameplay Mechanics](gameplay_mechanics.md)
--   - [Weapons and Powerups](weapons_and_powerups.md)
-- [Client/Server Design] (client_design.md)
+  - [Weapons and Powerups](weapons_and_powerups.md)
+- [Client and Server Design] (client_and_server_design.md)
   - [Networking and State Synchronization](networking_and_state_synchronization.md)
   - [Cheat Prevention](cheat_prevention.md)
-  - [Map Definition](mapping.md)
+  - [Map Definition](map_definition.md)
   - [Rendering](rendering.md)
   - [User Interface and Menus](user_interface_and_menus.md)
   - [Audio](audio.md)
   - [Input](input.md)
--   [Server Archetecture] (server_archetecturemd) 
+  - [Server Architecture] (server_architecture.md) 
 - [Global Services](global_services.md)
-- [Tutorials and Documentation](tutorials_and_docs.md)
+- [Tutorials and Documentation](tutorials_and_documentation.md)
 - [League and Tournament Support](league_and_tournament_support.md)
-- [Extensibility and Modification](extensibility.md)
+- [Extensibility and Modification](extensibility_and_modification.md)
 
 
-# Controbutions
+# Contributions
 
 If this project interests you, please be aware that we will need help in many forms from people with many different skills. Specifically, we want help from experienced programmers, artists, level designers, and people with knowledge about build systems/IDEs, network abuse prevention, legal issues for open-source projects, etc. Even without those specific skills, people who are willing to build and test unstable development code on their systems can be a great benefit to the project once source code is generated and the usable product begins to take shape.
 
