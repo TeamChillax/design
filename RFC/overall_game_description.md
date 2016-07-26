@@ -1,7 +1,5 @@
 # Overall Game Design
-
 Bellow is a list of basic features and requirements for the proejct.
-
 
 1. 3D view
 2. Players drive vehicles,tanks at first
@@ -11,4 +9,3 @@ Bellow is a list of basic features and requirements for the proejct.
 6. Players shoot other players
 7. Players pick up powerups that change behavors or add weapons
 8. Both team and individual game modes
-

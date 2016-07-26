@@ -1,9 +1,7 @@
 # Vehicle World Interactions
-
 We need to decide how we want the various vehciles to interact with the world. We all know what bzflag does, but there are many questions regarding what should be done.
 
 ## Open questions
-
 1. Will vehicles stay flat?
 2. How will vehicles deal with non flat world geometry?
 3. Will weapons be able to rotate seperate from the vehicle (tilt, rotation, tilt and rotation?)
@@ -13,7 +11,6 @@ We need to decide how we want the various vehciles to interact with the world. W
 7. Teleporters?
 8. Local physics overide on world geometry? (like bzflag physics drivers).
 
-
 ## Flat Tanks
 Will vehicles stay flat? This is known as the tilting tank issue. In bzflag tanks are flat. There are many reasons for this, mainly it's simple and it allows gameplay to be fun with out turret aiming.
 
@@ -22,7 +19,6 @@ If we allow tanks to tilt, we have to solve the following problems.
 How do people aim the guns when on a slope? Obvious solution is to allow some form of weapon rotaiton. Failure to allow some form of aiming will make it very hard to to line up shots when on a slope.
 
 If we allow tanks to tilt, we also have to deal with how tanks fall off ledges. Do we allow them to flip over? If we do how do players get right side up again? Do we do a hybrid method where tanks can tilt from the ground, but not from a ledge?
-
 
 ## Weapon rotation
 Another big often asked question, should turrets be aimable?
@@ -51,4 +47,3 @@ Like jumping this does not have a large number of ramfiications, it just sets so
 
 ## Physics override
 This as the same conerns as Dynamic world geometry.
-
