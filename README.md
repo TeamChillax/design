@@ -1,6 +1,10 @@
 # Introduction
 This is the repository where Team Chillax will be designing its current open-source game project: an as-of-yet unnamed 3D internet multiplayer action game. We are using this repository to lay out design specifications for this project which will be used to guide development efforts and provide a clear vision for what we want to accomplish. These plans are a work in progress and updates may occur as designs are created and refined.
 
+## Overall Game Design
+
+This will be a game where the player will be presented with a 3D view of the simulated world. The player will be represented in this world by a vehicle (specifically a tank, with the possibility of support for other vehicles later). The game will have several modes with different objectives, while a significant aspect of game activity will involve shooting other players. There will be powerups that players can pick up which alter some aspect of game behavior, especially adding a capability or weapon. The game should be playable on multiple PC platforms (Windows, Mac OS X and Linux) as well as a limited set of common mobile/embedded platforms. Players on all PC platforms should be able to play together, and ideally players on all platforms (PC and mobile) should be able to play together if this is determined to be viable.
+
 ## History
 We are a group of developers, players, and server owners from the open-source game [BZFlag](http://bzflag.org). Sadly, that project has run its course and it is time to make something newer and better. Our goal is to create a new game that echoes the fun elements of the game, but meets the expectations of modern users and brings a fresh take to open-source gaming.
 
