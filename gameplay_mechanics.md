@@ -38,4 +38,4 @@ Player vehicles (tanks) will interact with the world geometry in the following w
 ## Getting Hit
 * Tanks will maintain an internal "health" attribute
 * Shots will maintain an internal "Damage" attribute.
-- inital implementation will give both attributes a value of 1 for legacy familiarity, attributes are only for extensibility
+- Initial implementation will give both attributes a value of 1 for legacy familiarity, attributes are only for extensibility
