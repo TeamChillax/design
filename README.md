@@ -12,7 +12,7 @@ We are a group of developers, players, and server owners from the open-source ga
 The [design guidelines](design_guidelines.md) document covers a basic overview of the design process. All potential designers and developers should read it to understand our overall development goals.
 
 # Sections
-The following is a list of design documents for the project. Some of these pages may not have content yet, but the links will begin working as content is created for them.
+The following is a list of design documents for the project. Some of these pages may not have content yet, but the links will begin working as content is created for them. Items marked with a * have not yet been created.
 
 - [Licenses and Development Guidelines](licenses_and_development_guidelines.md)
 - [Target Platforms](target_platforms.md)
