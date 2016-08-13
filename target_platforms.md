@@ -1,8 +1,8 @@
-=Target Platforms
+#Target Platforms
 
-The project will target 5 platforms, 3 destop and 2 mobile. 
+The project will target 5 platforms, 3 desktop and 2 mobile. 
 
-== Desktop platforms
+# Desktop platforms
 The expected primary platform type.
 
 *Windows
@@ -12,10 +12,10 @@ The expected primary platform type.
 * Linux
 - Who knows?
 
-== Mobile Platforms
-Secondary platform types. It is understood that these platforms may have additional limitaitons that are not present on the desktop systems.
+## Mobile Platforms
+Secondary platform types. It is understood that these platforms may have additional limitations that are not present on the desktop systems.
 
 *iOS
-- Minium hardware TBD
+- Minimum hardware TBD
 * Android
-- Minium hardware TBD
+- Minimum hardware TBD
