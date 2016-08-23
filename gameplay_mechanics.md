@@ -9,6 +9,7 @@ Player vehicles (tanks) will interact with the world geometry in the following w
 * When tanks encounter world geometry that is not passable, they will not clip that geometry. If the ground under a tank is not flat, jump jets will be fired to make it look like the tank is using them to maintain stability.
 * Tanks can Jump
 - Jump algorithm TBD
+* Tanks can not collide with other thanks
 
 ## World Assumptions
 * In initial implementations the world will be static
