@@ -24,7 +24,7 @@ The following is a list of design documents for the project. Some of these pages
   - [*Map Definition](map_definition.md)
   - [*Rendering](rendering.md)
   - [*User Interface and Menus](user_interface_and_menus.md)
-  - [*Audio](audio.md)
+  - [Audio](audio.md)
   - [*Input](input.md)
   - [Server Architecture](server_architecture.md) {needs more work}
 - [*Global Services](global_services.md)
