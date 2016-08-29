@@ -28,9 +28,9 @@ Some power ups enhance the specific properties of a tank.
 3) The power-ups carried by all players
 * High Speed – When acquired a tank’s maximum speed will increase in both the forward and backwards directions. If Jumping is enabled on the server, the jump height is increased. 
 * Jumping – This power-up is only available on servers where jumping is disabled. When acquired a tank can jump as if it was enabled.
-
 * Narrow – When acquired a tank’s horizontal size is scaled to a very small dimension.  This scaling affects both the visual and hitbox of the tank making it able to move through places an unmodified tank could not, and be much harder to be hit
 * Quick Turn – When acquired a tank’s turning speed is massively increased.
 * Tiny – When acquired a tank’s scale is massively reduced, both visually and in hit box. A tank’s speed is also lowered proportionally.
+* Shield – When acquired a tank’s is surrounded by a damage shield that can absorb some fixed amount of damage. While equipped, all damage to a tank is applied to the shield first. When a shield has reached its damage limit, it will be dropped. Additional damage over the limit will be applied to the tank. 
 
 
