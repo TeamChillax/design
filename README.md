@@ -17,7 +17,7 @@ The following is a list of design documents for the project. Some of these pages
 - [Licenses and Development Guidelines](licenses_and_development_guidelines.md)
 - [Target Platforms](target_platforms.md)
 - [Gameplay Mechanics](gameplay_mechanics.md)
-  - [*Weapons and Powerups](weapons_and_powerups.md)
+  - [Weapons and Powerups](weapons_and_powerups.md)
 - [*Client and Server Design](client_and_server_design.md)
   - [*Networking and State Synchronization](networking_and_state_synchronization.md)
   - [*Cheat Prevention](cheat_prevention.md)
