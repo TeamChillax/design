@@ -7,9 +7,11 @@ Player vehicles (tanks) will interact with the world geometry in the following w
 * When tanks encounter world geometry that is not flat (slopes) they will attempt to climb them based on some traction computation (TBD)
 - Proofs of concept of the traction computation will be done during implementation
 * When tanks encounter world geometry that is not passable, they will not clip that geometry. If the ground under a tank is not flat, jump jets will be fired to make it look like the tank is using them to maintain stability.
-* Tanks can Jump
-- Jump algorithm TBD
+* Tanks can Jump (see below)
 * Tanks can not collide with other thanks
+
+### Jumping
+Normal Jumping is always a fixed force jump, and thus a fixed height jump. A tank has no controll over motion or rotaiton when it is not in contact with some surface. Power-ups such as Thusters can modify this behavor.
 
 ## World Assumptions
 * In initial implementations the world will be static
