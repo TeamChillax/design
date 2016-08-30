@@ -27,9 +27,9 @@ The following is a list of design documents for the project. Some of these pages
   - [Audio](audio.md)
   - [*Input](input.md)
   - [Server Architecture](server_architecture.md) {needs more work}
-- [Global Services](global_services.md){needs more work}
+- [Global Services](global_services.md) {needs more work}
 - [*Tutorials and Documentation](tutorials_and_documentation.md)
-- [*League and Tournament Support](league_and_tournament_support.md)
+- [League and Tournament Support](league_and_tournament_support.md)  {needs more work}
 - [*Extensibility and Modification](extensibility_and_modification.md)
 
 # Contributions
