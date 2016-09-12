@@ -1,6 +1,4 @@
-This page lays out some details for how we intend for this project to operate with respect to development and licensing of our source code.
-
-# License and Ownership
+# License and Copyright
 
 This product will be open-source software. It is important to us that it remains free and accessible to everyone, and that nobody can take someone else's work intended for public benefit and restrict people's freedom to use, modify and extend it. On the other hand, we understand that there are many widely-used proprietary devices which are unfriendly to certain open-source licenses, so for modules that will need to run on such devices, we need a license that still preserves people's freedoms but does not conflict with those specific platforms' end user license agreements.
 

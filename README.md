@@ -14,7 +14,7 @@ The [design guidelines](design_guidelines.md) document covers a basic overview o
 # Sections
 The following is a list of design documents for the project. Some of these pages may not have content yet, but the links will begin working as content is created for them. Items marked with a * have not yet been created.
 
-- [Licenses and Development Guidelines](licenses_and_development_guidelines.md)
+- [License and Copyright](license_and_copyright.md)
 - [Target Platforms](target_platforms.md)
 - [Gameplay Mechanics](gameplay_mechanics.md)
   - [Weapons and Powerups](weapons_and_powerups.md)
