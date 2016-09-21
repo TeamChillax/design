@@ -12,25 +12,27 @@ We are a group of developers, players, and server owners from the open-source ga
 The [design guidelines](design_guidelines.md) document covers a basic overview of the design process. All potential designers and developers should read it to understand our overall development goals.
 
 # Sections
-The following is a list of design documents for the project. Some of these pages may not have content yet, but the links will begin working as content is created for them. Items marked with a * have not yet been created.
+The following is a list of design documents for the project. Some of these pages may not have content yet. A green bubble indicates the section is complete (but subject to further revision), a yellow bubble indicates the section is in progress, and a red bubble indicates the section does not exist yet.
 
-- [License and Copyright](license_and_copyright.md)
-- [Target Platforms](target_platforms.md)
-- [Gameplay Mechanics](gameplay_mechanics.md)
-- [Powerups and Specialized Weapons](powerups_and_specialized_weapons.md)
-- [*Client and Server Design](client_and_server_design.md)
-  - [*Networking and State Synchronization](networking_and_state_synchronization.md)
-  - [*Cheat Prevention](cheat_prevention.md)
-  - [*Map Definition](map_definition.md)
-  - [*Rendering](rendering.md)
-  - [*User Interface and Menus](user_interface_and_menus.md)
-  - [Audio](audio.md)
-  - [*Input](input.md)
-  - [Server Architecture](server_architecture.md) {needs more work}
-- [Global Services](global_services.md) {needs more work}
-- [*Tutorials and Documentation](tutorials_and_documentation.md)
-- [League and Tournament Support](league_and_tournament_support.md)  {needs more work}
-- [*Extensibility and Modification](extensibility_and_modification.md)
+- General
+  - ![Ready](README/ready.png) [License and Copyright](license_and_copyright.md)
+  - ![Ready](README/ready.png) [Target Platforms](target_platforms.md)
+
+- Core Game Experience
+  - ![Incomplete](README/incomplete.png) [Gameplay Mechanics and Game World](gameplay_mechanics_and_game_world.md)
+  - ![Incomplete](README/incomplete.png) [Powerups and Specialized Weapons](powerups_and_specialized_weapons.md)
+  - ![Missing](README/missing.png) [Game Progression](game_progression.md)
+  - ![Missing](README/missing.png) [Input](input.md)
+  - ![Missing](README/missing.png) [User Interface and Menus](user_interface_and_menus.md)
+  - ![Missing](README/missing.png) [Rendering](rendering.md)
+  - ![Incomplete](README/incomplete.png) [Audio](audio.md)
+  - ![Missing](README/missing.png) [Tutorials and Documentation](tutorials_and_documentation.md)
+
+- Backend and Services
+  - ![Incomplete](README/incomplete.png) [Server Architecture](server_architecture.md)
+  - ![Missing](README/missing.png) [Networking and State Synchronization](networking_and_state_synchronization.md)
+  - ![Missing](README/missing.png) [Cheat Prevention](cheat_prevention.md)
+  - ![Incomplete](README/incomplete.png) [Global Services](global_services.md)
 
 # Contributions
 If this project interests you, please be aware that we will need help in many forms from people with many different skills. Specifically, we want help from experienced programmers, artists, level designers, and people with knowledge about build systems/IDEs, network abuse prevention, legal issues for open-source projects, etc. Even without those specific skills, people who are willing to build and test unstable development code on their systems can be a great benefit to the project once source code is generated and the usable product begins to take shape.
