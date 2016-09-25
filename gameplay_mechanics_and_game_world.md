@@ -42,3 +42,5 @@ Normal Jumping is always a fixed force jump, and thus a fixed height jump. A tan
 * Tanks will maintain an internal "health" attribute
 * Shots will maintain an internal "Damage" attribute.
 - Initial implementation will give both attributes a value of 1 for legacy familiarity, attributes are only for extensibility
+
+# Map Definition
