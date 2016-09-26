@@ -1,26 +1,22 @@
 # Audio System
-This document 
 
 ## Requirements
-1) Selected Audio System must support all required platforms
-2) Must support 3d positional sound (Hardware support is desired, Dobly, THX, etc...)
-3) Must support playing of some compressed sound format (Ogg, MP3, etc...)
-4) Must support mult-channel playback
-5) Playback from disk based files (no streaming required)
+1. Selected audio system must support all required platforms
+2. Must support 3D positional sound (Hardware support is desired, Dolby, THX, etc...)
+3. Must support playing of some compressed sound format (Vorbis, MP3, etc...)
+4. Must support multi-channel playback
+5. Playback from disk based files (no streaming required)
 
 ## Uses
-The audio system will be used to play a variety of sounds on the client system during gameplay, including.
+The audio system will be used to play a variety of sounds on the client system during gameplay, including:
 
-1) GUI and HUD notification sounds (2d)
-2) Sound effects attached player tanks (3d)
-3) Sound effects attached to map locations (3d)
-4) Music and voice over tracks as needed (tutorials?)
+1. GUI and HUD notification sounds (2D)
+2. Sound effects attached player tanks (3D)
+3. Sound effects attached to map locations (3D)
+4. Music and voice over tracks as needed (tutorials?)
 
 ### Scope Limitations
-The audio system will only support in game sounds, it will not be used to record player voices, or provide voice chat.
-Voice chat is better supported through third party applications. 
-
-If desirable the audio system can be made to integrate with popular third party voice chat systems if there are desirable features.
+The audio system will focus on in-game sounds.  Voice chat is beyond the scope of the game and is better handled by third-party applications.  We may, however, offer integrations with one or more third-party voice chat applications, such as offering player position information to Mumble for positional audio.
 
 ## OpenAL
-OpenAL appears to support all the desired platforms and features, so is highly likely to be the best choice.
+OpenAL appears to support all the desired platforms and features, so is highly likely to be the best choice.  On Windows, Linux, and OS X, OpenAL Soft can be used.  iOS includes a proprietary OpenAL, and Android may also be supported by OpenAL Soft. 
