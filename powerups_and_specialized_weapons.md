@@ -10,7 +10,7 @@ Players may only have a single power-up at a time. Players may choose to drop a 
 
 In the list of power-ups below, the term "damage" is used when discussing shots hitting tanks. At first, it will only take one hit to destroy a tank. However, the game will be designed to be flexible enough that this could be changed in the future. For this reason, this specification will use the term "damage" to describe any kind of hit, whether it be an instant kill or the removal of some "health statistic" at a later date.
 
-# Weapon Enhancements
+## Weapon Enhancements
 
 These power-ups enhance the weapons of a tank:
 
@@ -22,7 +22,7 @@ These power-ups enhance the weapons of a tank:
 * Phased Shots – This enhancement modifies a player’s shots so they are not stopped by world geometry or other tanks.  The shot will not ricochet even if the server is configured to allow it. The shot is not stopped by contact with other tanks, but it does damage them as it passes through them.
 * Thief – The tank stops firing shells, and instead fires a short ranged energy beam, that has identical behavior to the laser. When this energy beam contacts another tank, it steals any power-up that the target tank has. This stolen power-up then replaces the Thief power up on the shooters tank and the thief power up is dropped. There is a brief “cool down” time before the acquired power-up is activated and during that time the tank behaves as if it had no power-up (except in the fact that it will not automatically pick up a new power-up). While the tank has the thief power-up, the tank also has the physical abilities of the "Tiny," "Quick Turn," and "High Speed" power-ups below.
 
-# Tank Enhancements
+## Tank Enhancements
 
 These power-ups enhance the physical or informational/situational properties of a tank:
 
