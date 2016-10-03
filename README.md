@@ -20,7 +20,7 @@ The following is a list of design documents for the project. Some of these pages
 
 - Core Game Experience
   - ![Incomplete](README/incomplete.png) [Gameplay Mechanics and Game World](gameplay_mechanics_and_game_world.md)
-  - ![Incomplete](README/incomplete.png) [Powerups and Specialized Weapons](powerups_and_specialized_weapons.md)
+  - ![Ready](README/ready.png) [Powerups and Specialized Weapons](powerups_and_specialized_weapons.md)
   - ![Ready](README/ready.png) [Match Life Cycle](match_life_cycle.md)
   - ![Missing](README/missing.png) [Input](input.md)
   - ![Missing](README/missing.png) [User Interface and Menus](user_interface_and_menus.md)
